@@ -30,7 +30,7 @@ using Application = System.Windows.Forms.Application;
 
 namespace SA.Classes
 {
-    /// <summary> Побудова afaf таблиць різною структури для відображення у грідах </summary>
+    /// <summary> Побудова afaf таблиць різною fdssvf структури для відображення у грідах </summary>
     public static class DocumentHelper
     {
         #region Основні константи
