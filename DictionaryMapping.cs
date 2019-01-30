@@ -5,7 +5,7 @@ namespace SA.Classes
     /// <summary> Привязка справочников к некоторым полям </summary>
     public class DictionaryMapping
     {
-        /// <summary> Справочник </summary>
+        /// <summary> Справочник fjfj </summary>
         public ICollection Dictionary{ get; private set; }
         /// <summary> Ключ </summary>
         public string ValueMember{ get; private set; }
