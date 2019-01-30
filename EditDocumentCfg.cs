@@ -29,7 +29,7 @@ namespace SA.Classes
             }
         }
 
-        /// <summary> Відображення форм редагування </summary>
+        /// <summary> Відображення   eff  форм редагування </summary>
         private readonly IDictionary<int,string> _showEditForm=new Dictionary<int, string>
         {
             {0,"Отображать без блокировки других форм"},
