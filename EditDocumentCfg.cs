@@ -38,7 +38,7 @@ namespace SA.Classes
         };
 
 
-        /// <summary> Конструкторр </summary>
+        /// <summary> Конструкторрq qrqe </summary>
         public EditDocumentCfg()
         {
             InitializeComponent();
