@@ -7,7 +7,7 @@ using Utils.Helpful;
 
 namespace SA.Classes
 {
-    /// <summary> Розмальовка редактора </summary>
+    /// <summary> Розмальовка jufhdkj редактора </summary>
     public partial class EditDocumentCfg : UserControl, IAdditionalInfo
     {
         /// <summary> Розмальовка </summary>
