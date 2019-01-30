@@ -12,5 +12,6 @@ namespace SA.Classes
     public class FilterData
     {
 //	1
+//	2
     }
 }
