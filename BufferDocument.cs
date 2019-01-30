@@ -7,7 +7,6 @@ namespace SA.Classes
     /// <summary> Типи файлів імпорту </summary>
     public enum ImportFileType
     {
-        /// <summary> Не підійшов ні до чого </summary>
         None = 0,
 
         /// <summary>NN-MAIN - Налоговая накладная (заголовок) = НН з Сумового обліку</summary>
