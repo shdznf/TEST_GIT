@@ -11,6 +11,6 @@ namespace SA.Classes
     /// <summary> dfdafa  Основні дані для маніпуляцій </summary>
     public class FilterData
     {
-
+//	1
     }
 }
