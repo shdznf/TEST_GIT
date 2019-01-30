@@ -44,7 +44,7 @@ namespace SA.Classes
         /// <summary> Таблица строк документов </summary>
         public const string DocumentDetails = "DocumentDetails";
 
-        /// <summary> Таблица додаткових виртат по документу з розбивкою по артикулам</summary>
+        /// <summary> Таблица   swfdf додаткових виртат по документу з розбивкою по артикулам</summary>
         public const string DocumentExpenses = "DocumentExpenses";
 
         /// <summary> Таблица додаткових виртат по документу загальна</summary>
