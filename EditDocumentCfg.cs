@@ -7,7 +7,7 @@ using Utils.Helpful;
 
 namespace SA.Classes
 {
-    /// <summary> Розмальовка редактора </summary>
+    /// <summary> Розмальовка jufhdkj редактора </summary>
     public partial class EditDocumentCfg : UserControl, IAdditionalInfo
     {
         /// <summary> Розмальовка </summary>
@@ -29,7 +29,7 @@ namespace SA.Classes
             }
         }
 
-        /// <summary> Відображення форм редагування </summary>
+        /// <summary> Відображення   eff  форм редагування </summary>
         private readonly IDictionary<int,string> _showEditForm=new Dictionary<int, string>
         {
             {0,"Отображать без блокировки других форм"},
@@ -38,7 +38,7 @@ namespace SA.Classes
         };
 
 
-        /// <summary> Конструкторр </summary>
+        /// <summary> Конструкторрq qrqe </summary>
         public EditDocumentCfg()
         {
             InitializeComponent();
