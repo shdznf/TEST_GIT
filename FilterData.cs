@@ -8,7 +8,7 @@ using Utils.Assist;
 
 namespace SA.Classes
 {
-    /// <summary> Основні дані для маніпуляцій </summary>
+    /// <summary> dfdafa  Основні дані для маніпуляцій </summary>
     public class FilterData
     {
 
